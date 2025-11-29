@@ -23,3 +23,6 @@ Configure Output — Set reply to send back to chat.
 Save workflow — Click Save.
 
 Run / Test — Send a chat message → AI Agent uses Gemini model and replies automatically.
+
+
+![agent chat](https://github.com/user-attachments/assets/d654ad84-6e70-482a-a732-0c349f588966)
