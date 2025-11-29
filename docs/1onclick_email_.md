@@ -19,3 +19,6 @@ Connect Gmail Account — Login and allow permissions.
 Save workflow — Click Save.
 
 Run it — Click Execute Workflow → upload your document → workflow sends email automatically.
+
+
+![1)send email](https://github.com/user-attachments/assets/00cbcf33-917d-42cf-977d-d28891061ce4)
