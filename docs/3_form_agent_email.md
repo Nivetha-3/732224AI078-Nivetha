@@ -28,3 +28,6 @@ Use AI Agent output inside the email body.
 Save workflow — Click Save.
 
 Test workflow — Submit form → AI Agent processes → Gmail sends email automatically.
+
+
+![WhatsApp Image 2025-11-29 at 6 59 10 PM](https://github.com/user-attachments/assets/7feb2544-7011-4bea-93fe-9b236ef1ab11)
